@@ -9,7 +9,7 @@
 ![Ícones das tecnologias](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ícones das tecnologias](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Ícones das tecnologias](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-<img align="right" alt="vangeance" height="100" width="140" src="https://cdn.discordapp.com/attachments/1329849500399046699/1406143609173971005/shipudenGIF.gif?ex=68a164c9&is=68a01349&hm=baa9e3ba1b790a44b256ee9917fd8f670d624715044b0b82904fe6eb303118e8&">
+<img align="right" alt="vangeance" height="100" width="170" src="https://cdn.discordapp.com/attachments/1329849500399046699/1406143609173971005/shipudenGIF.gif?ex=68a164c9&is=68a01349&hm=baa9e3ba1b790a44b256ee9917fd8f670d624715044b0b82904fe6eb303118e8&">
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro.diniz0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrodiniz310@gmail.com)
