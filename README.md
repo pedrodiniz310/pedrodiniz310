@@ -1,8 +1,8 @@
 ## Hi there, i'm Pedro Diniz👋
 
 - 👨‍💻 I am pursuing a degree in Computer Engineering
-- 📚 Studying Python for Data Analytics 
-- 💬 Ask me about SQL
+- 📚 Studying Python, JS
+- 💬 Ask me about all
 - 📫 How to reach me: pedrodiniz310@gmail.com
 
 ![Ícones das tecnologias](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
