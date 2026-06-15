@@ -2,9 +2,7 @@
 
 <h1>Pedro Diniz</h1>
 
-<a href="https://github.com/pedrodiniz310">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF7300&center=true&vCenter=true&width=520&lines=Visão+Computacional+no+browser+🖐️;TCC%3A+Detecção+de+Deepfakes+de+áudio+🎙️;Python+%2B+JavaScript+%2B+MediaPipe" alt="Typing SVG" />
-</a>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="160" alt="coding" />
 
 </div>
 
