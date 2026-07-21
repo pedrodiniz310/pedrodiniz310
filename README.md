@@ -66,17 +66,6 @@
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrodiniz310&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodiniz310&layout=compact&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br&langs_count=8" />
-
-</div>
-
----
-
 ## 🐍
 
 <div align="center">
