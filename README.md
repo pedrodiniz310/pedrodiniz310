@@ -22,27 +22,6 @@
 
 ---
 
-## Projetos em destaque
-
-**Visão computacional & interação**
-
-- [rastreamento-de-maos-naruto](https://github.com/pedrodiniz310/rastreamento-de-maos-naruto) — Rastreamento de mãos em tempo real com efeitos visuais do Naruto e Sasuke, via MediaPipe.
-- [jedi-forca-gestos](https://github.com/pedrodiniz310/jedi-forca-gestos) — Use a Força dos Jedi para mover objetos com um gesto da mão, direto no navegador.
-- [homem-aranha-teia-gestos](https://github.com/pedrodiniz310/homem-aranha-teia-gestos) — O gesto do Homem-Aranha dispara a teia em tempo real via MediaPipe Hands.
-- [blindAR](https://github.com/pedrodiniz310/blindAR) — Experimento de realidade aumentada com foco em acessibilidade.
-
-**Web**
-
-- [Desafio-liga-jovem](https://github.com/pedrodiniz310/Desafio-liga-jovem) — Aplicação web em TypeScript desenvolvida para o desafio Liga Jovem.
-- [bio-habitat-generativo](https://github.com/pedrodiniz310/bio-habitat-generativo) — Habitat generativo em JavaScript que reage a dados por API.
-
-**Dados**
-
-- [dashboard-supermarket-sales](https://github.com/pedrodiniz310/dashboard-supermarket-sales) — Dashboard interativo de vendas em Streamlit, com KPIs e gráficos.
-- [airline-flight-analysis](https://github.com/pedrodiniz310/airline-flight-analysis-) — Estudo exploratório de voos entre grandes cidades da Índia (Jupyter + Pandas).
-
----
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
