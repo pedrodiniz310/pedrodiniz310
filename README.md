@@ -13,11 +13,7 @@
 ## Sobre mim
 
 - 🎓 Cursando **Engenharia da Computação**
-- 👁️ Apaixonado por **visão computacional** — transformo a webcam em controle
-- 🍥 Criei jutsus, teias do Homem-Aranha e a Força dos Jedi com **MediaPipe** no browser
-- 🎙️ TCC: **detecção de deepfakes de áudio** com Wav2Vec 2.0
-- 🌐 Desenvolvo aplicações web com **Next.js, TypeScript e Laravel**
-- 📊 Também curto dados: Pandas, Streamlit e Power BI
+- 🌐 Desenvolvo aplicações web e mobile
 - 📫 **pedrodiniz310@gmail.com**
 
 ---
