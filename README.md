@@ -2,8 +2,6 @@
 
 <h1>Pedro Diniz</h1>
 
-<p><em>Transformo a webcam em controle e construo aplicações para a web.</em></p>
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="160" alt="coding" />
 
 </div>
